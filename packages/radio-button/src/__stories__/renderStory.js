@@ -29,7 +29,6 @@ export default function renderStory(props) {
           value="Secondary"
           id="radio-button-2"
           name="radio-button"
-          defaultChecked
         >
           {children}
         </DefaultExport>
